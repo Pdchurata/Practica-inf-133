@@ -1,4 +1,4 @@
-#PROGRAMACION WEB III<br>
+PROGRAMACION WEB III<br>
 Practicas-inf-133<br>
 -------------------------------------------------------------
 | Nombres         | Apellidos       | CI                    |
