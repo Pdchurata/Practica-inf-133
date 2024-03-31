@@ -1,8 +1,10 @@
-# PROGRAMACION WEB III
-practicas-inf-133
+#PROGRAMACION WEB III
+##Practicas-inf-133
 -------------------------------------------------------------
 | Nombres         | Apellidos       | CI                    |
 | --------------- | --------------- | --------------------- |
-| <Nombres>       | <Apellidos>     | <Carnet de identidad> |
+| PABEL DANTE     | CHURATA APAZA   | 9230636               |
 -------------------------------------------------------------
+Paralelo D semestre I/2024
+Lic. Tatiana Delgadillo.
 
